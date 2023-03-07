@@ -15,7 +15,7 @@ p.then((responce) => {
             <h5 class="card-title">${item.name}</h5>
             <p class="card-text">Start time Contest:${item.start_time}</p>
             <p class="card-text">Start time Contest:${item.end_time}</p>
-            <a href="${item.url}" class="btn btn-primary">Go somewhere</a>
+            <a href="${item.url}" class="btn btn-primary">Enter Contest</a>
           </div>
         </div>
        `
